@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/edteamlat/tailwind-edteam/issues"
   },
-  "homepage": "https://github.com/edteamlat/tailwind-edteam#readme"
+  "homepage": "https://github.com/edteamlat/tailwind-edteam#readme",
+  "devDependencies": {
+    "postcss": "^8.4.6",
+    "tailwindcss": "^3.0.23"
+  }
 }
