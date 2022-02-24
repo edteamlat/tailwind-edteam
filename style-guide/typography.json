@@ -1,0 +1,13 @@
+{
+  "typography": {
+    "lineHeights": {
+      "0": "140%",
+      "1": "150%",
+      "2": "180%"
+    },
+    "letterSpacing": {},
+    "fontFamilies": {
+      "display": ["Manrope"]
+    }
+  }
+}
