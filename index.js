@@ -4,7 +4,7 @@ const colors = require('./style-guide/colors.json');
 
 module.exports = plugin(function () {}, {
   theme: {
-    extends: {
+    extend: {
       colors: { ...colors.colors }
     }
   }
